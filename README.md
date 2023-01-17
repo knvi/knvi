@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://kuniewski.codes/ is my page, C programming is my game.
+C programming is my game.
 
 dc: kunevi#8148
 
