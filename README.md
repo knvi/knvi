@@ -1,1 +1,10 @@
-In case of an investigation by any federal entity or similar, I do not have any involvement with this "GitHub" profile. It is all a work of fiction.
+<p float="left">
+  <img src="https://github.com/knvi/knvi/assets/32068559/f2ef040e-0c9a-4778-afa9-89e714f3ebe5" align="top">
+  <p float="top">
+    <samp>
+      knvi
+      <br>
+      c, go, rust, typescript
+    </samp>
+  </p>
+</p>
